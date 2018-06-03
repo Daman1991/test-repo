@@ -1,2 +1,2 @@
-# test-repo
-A simple test for learning Github
+# test
+test repo for git commands demonstration
